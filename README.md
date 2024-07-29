@@ -7,6 +7,6 @@ This is a custom repository for Termux that includes a Python script for setting
 Run the following commands to install:
 
 ```sh
-git clone https://github.com/yourusername/my-termux-repo.git
+git clone https://github.com/Joinck/Termux-password-/tree/main
 cd my-termux-repo
 ./install.sh
